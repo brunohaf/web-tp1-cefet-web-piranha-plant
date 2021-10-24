@@ -1,0 +1,22 @@
+#loja-body {
+    background-image: url('./imagens/desenho-loucao.jpg');
+}
+
+#tabela-de-valores {
+    width: 600px;
+    text-align: center;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+th {
+    color: white;
+    background-color: grey;
+}
