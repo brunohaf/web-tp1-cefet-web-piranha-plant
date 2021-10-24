@@ -1,0 +1,62 @@
+body {
+    font-family: "Arial", sans-serif;
+    font-size: 14px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+#loja-body {
+    background-image: url('./cefet-web-piranha-plant-gh-pages/imagens/desenho-loucao.jpg');
+}
+
+h1 {
+    font-family: "Times New Roman", serif;
+    font-size: 28px;
+    color: limegreen;
+}
+
+h2 {
+    font-family: "Times New Roman", serif;
+    font-size: 22px;
+    color: limegreen;
+}
+
+blockquote {
+    margin-right: 60px;
+}
+
+img {
+    width: 300px;
+    border: 8px;
+    border-style: solid;
+    border-color: limegreen;
+    margin: auto;
+    display: block;
+}
+
+#informacao-importante {
+    border: 3px;
+    border-style: solid;
+    border-color: limegreen;
+    padding: 10px;
+    background-image: url('./cefet-web-piranha-plant-gh-pages/imagens/fundo.png');
+}
+
+#tabela-de-valores {
+    width: 600px;
+    text-align: center;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+th {
+    color: white;
+    background-color: grey;
+}
